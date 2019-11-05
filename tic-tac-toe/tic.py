@@ -45,9 +45,13 @@ def youMove():
 	computer = True
 
 def computerMove():
-	#check the first round
-	for spot in grid:
-		if grid[spot] == "o"
+	#check if there're two o already
+	#check if there are two x
+	#check if the one o
+	#place next to the o
+	# for spot in grid:
+	# 	if grid[spot] == "o":
+	# 		grid[]
 
 
 
